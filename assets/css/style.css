@@ -1,0 +1,61 @@
+.jumbotron {
+	background-image: url("../images/earth2.jpg") !important;
+	background-size: 1070px;
+	background-color: black !important;
+	height: 600px;
+	background-repeat: no-repeat;
+	text-align: center;
+	padding-right: 600px !important;
+}
+
+.jumbotron h1 {
+	color: #eeeeee !important;
+	margin-top: 70px;
+	margin-bottom: 60px;
+	font-size: 60px;
+	text-align: center;
+}
+
+.jumbotron #startGame {
+	font-size: 36px;
+}
+
+#bannertext {
+	width: 50%;
+}
+
+#bannerpic {
+	float: left;
+	position: relative;
+}
+
+#wrapper {
+	width: 960px;
+	height: 475px;
+	margin: 0px auto;
+	background-color: black;
+	color: #eeeeee;
+	text-align: center;
+	font-size: 18px;
+}
+
+#quiz li {
+	text-align: left;
+	width: 170px;
+	margin: 0px auto;
+	list-style: none;
+}
+
+#quiz ul {
+	text-align: center;
+}
+
+#nextBtn, #startBtn {
+	color: black;
+}
+
+#question p {
+	width: 400px;
+	margin: 0px auto;
+	padding: 15px;
+}
